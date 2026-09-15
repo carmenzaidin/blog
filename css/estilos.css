@@ -1,0 +1,95 @@
+h1{
+	color:green;
+    text-align:center;
+    font-family:helvetica;
+}
+
+
+
+
+/*nombre de cada infusión*/
+.encabezado-infusion{
+                      color:green;  
+                      font-size:22px; 
+                      margin:5px;
+                  }
+
+
+/*footer*/
+.pie-pagina{
+     color:white;
+     background:green;
+
+}
+
+/*Leer más*/
+.infusion2 a, .infusion1 a{color:greenyellow;   
+  background-color:green;  
+    padding:12px;  
+    border-radius:7px 7px;
+}
+
+
+.infusion2 a:hover, .infusion1 a:hover{color:white;   background-color:red;}
+
+
+
+/*recuadro de cada infusión*/
+.contenido{
+    width:30%; 
+    height:350px; 
+    border: 2px solid green;
+    padding:15px;
+    border-radius:10px 10px;
+    box-sizing:border-box;
+    margin:0 auto; 
+    display:inline-block;
+}
+
+
+
+
+/**/
+.infusion1{
+    display:inline-block;
+}
+
+
+.infusion2{
+    border:10px;
+    margin:8px; 
+    display:inline-block;
+}
+
+
+
+.ficha{
+     border:10px;
+     margin:8px; 
+
+}
+
+
+
+.flechas{
+    text-decoration:none;
+    background-color:white;  
+    display: flex;
+    justify-content: center; }
+
+ 
+
+
+
+
+
+.contenedor-flecha{
+      display: flex;
+      justify-content: center;
+
+}
+
+
+
+
+
